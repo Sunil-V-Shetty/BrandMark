@@ -56,22 +56,22 @@ Below are some snapshots of the application:
 
 ## File Structure -
 
-• public/ - Contains static assets such as images.
-• screenshots/ - Folder for screenshots of the application.
-• src/ - Contains the source code for the React application.
-• components/ - Contains React components including Header, WeatherWidget, Footer, and CarouselComponent.
-• styles.css - Main CSS file for global styles.
-• App.js - Main application component that renders all other components.
+• public/ - Contains static assets such as images.< br / >
+• screenshots/ - Folder for screenshots of the application.< br / >
+• src/ - Contains the source code for the React application.< br / >
+• components/ - Contains React components including Header, WeatherWidget, Footer, and CarouselComponent.< br / >
+• styles.css - Main CSS file for global styles.< br / >
+• App.js - Main application component that renders all other components.< br / >
 • package.json - Lists project dependencies and scripts.
 
 ## Contributing
 
-If you would like to contribute to this project:
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Commit your changes and push them to your forked repository.
+If you would like to contribute to this project:< br / >
+Fork the repository.< br / >
+Create a new branch for your feature or bug fix.< br / >
+Commit your changes and push them to your forked repository.< br / >
 Create a pull request to the main repository.
-License
+License< br / >
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments -

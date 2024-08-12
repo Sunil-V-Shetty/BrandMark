@@ -41,28 +41,28 @@ npm start
 
 Below are some snapshots of the application:
 
-## Hero Section & Carousel Component
+- Hero Section & Carousel Component
 ![alt text](<Hero Section & Carousel Component.jpeg>)
 
-## Content Sections
+- Content Sections
 ![alt text](<Content Sections.jpeg>)
 
-## Latest Customer Creations
+- Latest Customer Creations
 ![alt text](<Latest Customer Creations.jpeg>)
 
-## Footer Section
+- Footer Section
 ![alt text](<Footer Section.jpeg>)
 
 
 ## File Structure -
 
-## public/ - Contains static assets such as images.
-## screenshots/ - Folder for screenshots of the application.
-## src/ - Contains the source code for the React application.
-## components/ - Contains React components including Header, WeatherWidget, Footer, and CarouselComponent.
-## styles.css - Main CSS file for global styles.
-## App.js - Main application component that renders all other components.
-## package.json - Lists project dependencies and scripts.
+• public/ - Contains static assets such as images.
+• screenshots/ - Folder for screenshots of the application.
+• src/ - Contains the source code for the React application.
+• components/ - Contains React components including Header, WeatherWidget, Footer, and CarouselComponent.
+• styles.css - Main CSS file for global styles.
+• App.js - Main application component that renders all other components.
+• package.json - Lists project dependencies and scripts.
 
 ## Contributing
 
@@ -82,11 +82,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact -
 
-## GitHub: [Sunil-V-Shetty](https://github.com/Sunil-V-Shetty)
-## LinkedIn: [Sunil Shetty](https://www.linkedin.com/in/sunil-shetty-166395284)
+GitHub: [Sunil-V-Shetty](https://github.com/Sunil-V-Shetty)
+LinkedIn: [Sunil Shetty](https://www.linkedin.com/in/sunil-shetty-166395284)
 
-Runs the app in the development mode.\
-## Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+On Your Network:  http://192.168.43.250:3000
 
-## Local:  http://localhost:3000
-## On Your Network:  http://192.168.43.250:3000
+Thank you!

@@ -32,7 +32,7 @@ Make sure you have Node.js installed.
    cd your-repository
 
 3. Install dependencies
-npm install
+npm install ,
 npm install bootstrap 
 
 4.  Start the development server

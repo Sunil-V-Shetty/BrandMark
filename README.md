@@ -29,14 +29,14 @@ Make sure you have Node.js installed.
    git clone https://github.com/Sunil-V-Shetty/BrandMark.git 
 
 2.  Navigate to the project directory
-   - cd your-repository
+   cd your-repository
 
 3. Install dependencies
-- npm install
-- npm install bootstrap 
+npm install
+npm install bootstrap 
 
 4.  Start the development server
-- npm start
+npm start
 
 ## Screenshots
 

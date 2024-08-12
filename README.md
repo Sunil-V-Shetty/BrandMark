@@ -26,7 +26,7 @@ Make sure you have Node.js installed.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Sunil-V-Shetty/your-repository.git
+   git clone https://github.com/Sunil-V-Shetty/BrandMark.git 
 
 2.  Navigate to the project directory
    cd your-repository
@@ -56,13 +56,13 @@ Below are some snapshots of the application:
 
 ## File Structure -
 
-public/ - Contains static assets such as images.
-screenshots/ - Folder for screenshots of the application.
-src/ - Contains the source code for the React application.
-components/ - Contains React components including Header, WeatherWidget, Footer, and CarouselComponent.
-styles.css - Main CSS file for global styles.
-App.js - Main application component that renders all other components.
-package.json - Lists project dependencies and scripts.
+## public/ - Contains static assets such as images.
+## screenshots/ - Folder for screenshots of the application.
+## src/ - Contains the source code for the React application.
+## components/ - Contains React components including Header, WeatherWidget, Footer, and CarouselComponent.
+## styles.css - Main CSS file for global styles.
+## App.js - Main application component that renders all other components.
+## package.json - Lists project dependencies and scripts.
 
 ## Contributing
 

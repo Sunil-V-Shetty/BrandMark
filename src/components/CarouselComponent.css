@@ -1,0 +1,28 @@
+.carousel-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 400px; /* Adjust based on your content */
+    background-color: #b0e6ec; /* Light gray background for better readability */
+  }
+  
+  .carousel-content {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .quote-text {
+    font-size: 34px;
+    font-style: italic;
+    color: #333;
+    margin: 0; /* Remove margin to center content better */
+  }
+  
+  .quote-author {
+    font-size: 30px;
+    margin-top: 20px;
+    color: #555;
+    margin-bottom: 0; /* Remove margin to center content better */
+  }
+  
